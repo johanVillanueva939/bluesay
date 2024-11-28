@@ -227,7 +227,7 @@ nav a:hover{
 .section_6{
 	display: grid;
 	grid-template-columns: repeat(2,1fr);
-	background: url('../assets/images/bg_whoIs.png') center center no-repeat;
+	background: url('../assets/images/bg_whoIs.webp') center center no-repeat;
 	background-size: cover;
 	color: white;
 	align-items: end;
@@ -315,7 +315,7 @@ nav a:hover{
 }
 /* ------------ Section #8 ------------ */
 .section_8{
-	background: url('../assets/images/bg_contact.png') center center no-repeat;
+	background: url('../assets/images/bg_contact.webp') center center no-repeat;
 	background-size: cover;
 }
 .section_8 > section{
